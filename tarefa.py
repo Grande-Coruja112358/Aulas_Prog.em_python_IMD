@@ -49,3 +49,10 @@ F = (C * 9) / 5 + 32
 print(f' {F}')
 9)
 email = input(' Digite o seu e-mail')
+x = len(email)
+y = 0
+lista =[]
+while y < x:
+lista.append(y)
+y = y + 1
+10)
